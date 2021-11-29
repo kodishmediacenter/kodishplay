@@ -7,3 +7,14 @@
  <info>Listas iptv</info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Canal do Youtube[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/kodishplay/main/canal</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/kodishplay/main/conteudos-exclusivos</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
